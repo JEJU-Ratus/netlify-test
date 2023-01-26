@@ -10,8 +10,11 @@
   padding: 40px 0;
   text-align: center;
 }
-.line{
+.wrapper_personalWeb hr{
   border: solid 2px ;
+}
+.wrapper_personalWeb h2{
+  margin-top: 20px;
 }
 
 .wrapper_personalWeb ul{
