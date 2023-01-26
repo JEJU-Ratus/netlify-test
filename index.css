@@ -16,7 +16,7 @@
 }
 
 .wrapper_personalWeb ul{
-  display: flex;
+  display: inline-flex;
   margin: 20px;
   align-items: center;
   list-style-type: none;
