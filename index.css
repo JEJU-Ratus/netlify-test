@@ -3,7 +3,6 @@
   font-family: 'Noto Sans KR', Poppins, sans-serif;
 }
 .container{
-  min-width: 100vw;
   background-color: antiquewhite;
 }
 
@@ -18,17 +17,24 @@
 .wrapper_personalWeb ul{
   display: inline-flex;
   flex-wrap: wrap;
-  margin: 20px;
+  margin: 20px 0 0 20px;
   align-items: center;
   list-style-type: none;
 }
 .wrapper_personalWeb li{
-  margin-right: 50px;
+  margin: 0 50px 20px 0px;
+
 }
 .wrapper_personalWeb li:last-child{
   margin-right: 0px;
 }
-.profileImg{ 
+.wrapper_personalWeb a{
+  display: flex;
+  align-items: center;
+}
+
+.profileImg{
+  margin-right: 20px;
   width: 100px;
   height: 100px;
   border-radius: 50%;
