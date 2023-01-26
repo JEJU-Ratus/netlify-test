@@ -15,13 +15,13 @@
 }
 .wrapper_personalWeb h2{
   margin-top: 20px;
+  font-size: 20px;
 }
 
 .wrapper_personalWeb ul{
   display: inline-flex;
   flex-wrap: wrap;
   margin: 20px 0 0 20px;
-  align-items: center;
   list-style-type: none;
 }
 .wrapper_personalWeb li{
