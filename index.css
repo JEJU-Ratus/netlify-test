@@ -1,0 +1,33 @@
+
+
+.container{
+  margin: 0 auto;
+  width: 1280px;
+  background-color: antiquewhite;
+}
+
+.wrapper_title{
+  padding: 40px 0;
+  text-align: center;
+}
+.line{
+  border: solid 2px ;
+}
+
+.wrapper_personalWeb ul{
+  display: flex;
+  margin: 20px;
+  align-items: center;
+  list-style-type: none;
+}
+.wrapper_personalWeb li{
+  margin-right: 50px;
+}
+.wrapper_personalWeb li:last-child{
+  margin-right: 0px;
+}
+.profileImg{ 
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
