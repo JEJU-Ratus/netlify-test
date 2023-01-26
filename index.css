@@ -3,7 +3,7 @@
   font-family: 'Noto Sans KR', Poppins, sans-serif;
 }
 .container{
-
+  min-width: 100vw;
   background-color: antiquewhite;
 }
 
@@ -17,6 +17,7 @@
 
 .wrapper_personalWeb ul{
   display: inline-flex;
+  flex-wrap: wrap;
   margin: 20px;
   align-items: center;
   list-style-type: none;
