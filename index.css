@@ -10,32 +10,32 @@
   padding: 40px 0;
   text-align: center;
 }
-.wrapper_personalWeb hr{
+.wrapper_personal-web hr{
   border: solid 2px ;
 }
-.wrapper_personalWeb h2{
+.wrapper_personal-web h2{
   margin-top: 20px;
   font-size: 20px;
 }
 
-.wrapper_personalWeb ul{
+.wrapper_personal-web ul{
   display: inline-flex;
   flex-wrap: wrap;
   margin: 20px 0 0 20px;
   list-style-type: none;
 }
-.wrapper_personalWeb li{
+.wrapper_personal-web li{
   margin: 0 50px 20px 0px;
 
 }
-.wrapper_personalWeb li:last-child{
+.wrapper_personal-web li:last-child{
   margin-right: 0px;
 }
-.wrapper_personalWeb a{
+.wrapper_personal-web a{
   display: flex;
   align-items: center;
 }
-.wrapper_personalWeb img{
+.wrapper_personal-web img{
   margin-right: 20px;
   width: 100px;
   height: 100px;
