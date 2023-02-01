@@ -1,10 +1,10 @@
 # netlifyTest
 
-서버를 돌려서 만들어보기
+- 서버를 돌려서 만들어보기
 
-버전은 Semantic versioning을 참고하였음. (Major.Minor.Patch.build)
+- 버전은 Semantic versioning을 참고하였음. (Major.Minor.Patch.build)
 
-Major 버전 증가
+- Major 버전 증가
 
   - 하위 버전과 호환되지 않는 변화가 생겼을 때
   - 대대적인 변화가 일어났을 때
