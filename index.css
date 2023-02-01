@@ -9,10 +9,10 @@
 .wrapper_title{
   padding: 40px 0;
   text-align: center;
+  border-bottom: 2px solid;
 }
-.wrapper_personal-web hr{
-  border: solid 2px ;
-}
+
+
 .wrapper_personal-web h2{
   margin-top: 20px;
   font-size: 20px;
