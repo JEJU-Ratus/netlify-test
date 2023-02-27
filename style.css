@@ -2,40 +2,40 @@
 *{
   font-family: 'Noto Sans KR', Poppins, sans-serif;
 }
-.container{
+#container{
   background-color: antiquewhite;
 }
 
-.wrapper_title{
+.tit_personalWeb{
   padding: 40px 0;
   text-align: center;
   border-bottom: 2px solid;
 }
 
 
-.wrapper_personal-web h2{
+.wrap_personalWeb h2{
   margin-top: 20px;
   font-size: 20px;
 }
 
-.wrapper_personal-web ul{
+.wrap_personalWeb ul{
   display: inline-flex;
   flex-wrap: wrap;
   margin: 20px 0 0 20px;
   list-style-type: none;
 }
-.wrapper_personal-web li{
+.wrap_personalWeb li{
   margin: 0 50px 20px 0px;
 
 }
-.wrapper_personal-web li:last-child{
+.wrap_personalWeb li:last-child{
   margin-right: 0px;
 }
-.wrapper_personal-web a{
+.wrap_personalWeb a{
   display: flex;
   align-items: center;
 }
-.wrapper_personal-web img{
+.wrap_personalWeb img{
   margin-right: 20px;
   width: 100px;
   height: 100px;
